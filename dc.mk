@@ -15,7 +15,7 @@ $(call inherit-product-if-exists, vendor/lge/g2/g2-vendor.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := g2
-PRODUCT_NAME := cm_g2
+PRODUCT_NAME := dc_g2
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := VS980 4G
 PRODUCT_MANUFACTURER := LGE
